@@ -13,3 +13,4 @@ showMyX(); //return undefined
 showMyX = showMyX.bind(myObj)
 
 showMyX(); //return 10
+
